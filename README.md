@@ -1,7 +1,7 @@
 # ReadMeTest
 | Language      | Lexicon        | Sentene Templates | Grammars | Questions | Web Interfaec |
 | :------------ |:---------------| :-----|:-----|:-----|:-----|
-| English       | some wordy text| $1600 |:-----|:-----|:-----|
+| English       |[en_lexicon](https://www.google.com)| $1600 |:-----|:-----|:-----|
 | German        | centered       |   $12 |:-----|:-----|:-----|
 | Italian       | are neat       |    $1 |:-----|:-----|:-----|
 | Spanish       | are neat       |    $1 |:-----|:-----|:-----|
